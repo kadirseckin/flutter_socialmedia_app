@@ -36,7 +36,7 @@ class _SignInPageState extends State<SignInPage> {
 
     return Scaffold(
       key: _scaffoldKey,
-      backgroundColor: Colors.blue.shade900,
+      backgroundColor: Colors.black,
       body: isLoggedIn? MainPage():Form(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
@@ -97,7 +97,7 @@ class _SignInPageState extends State<SignInPage> {
             padding: const EdgeInsets.all(10.0),
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.grey.withOpacity(0.3),
+                color: Colors.grey.withOpacity(0.5),
                 borderRadius: BorderRadius.all(Radius.circular(20)),
               ),
               child: TextFormField(
@@ -123,7 +123,7 @@ class _SignInPageState extends State<SignInPage> {
             padding: const EdgeInsets.all(10.0),
             child: Container(
               decoration: BoxDecoration(
-                color: Colors.grey.withOpacity(0.3),
+                color: Colors.grey.withOpacity(0.5),
                 borderRadius: BorderRadius.all(Radius.circular(20)),
               ),
               child: TextFormField(

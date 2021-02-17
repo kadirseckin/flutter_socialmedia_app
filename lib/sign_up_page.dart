@@ -30,7 +30,7 @@ class _SignUpPageState extends State<SignUpPage> {
 
     return Scaffold(
       key: _scaffoldKey,
-      backgroundColor: Colors.blue.shade900,
+      backgroundColor: Colors.black,
       body: Form(
         child: SafeArea(
           child: Column(
@@ -94,7 +94,7 @@ class _SignUpPageState extends State<SignUpPage> {
       padding: const EdgeInsets.all(8),
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.grey.withOpacity(0.3),
+          color: Colors.grey.withOpacity(0.5),
           borderRadius: BorderRadius.all(Radius.circular(20)),
         ),
         child: TextFormField(
@@ -120,7 +120,7 @@ class _SignUpPageState extends State<SignUpPage> {
       padding: const EdgeInsets.all(8),
       child: Container(
         decoration: BoxDecoration(
-          color: Colors.grey.withOpacity(0.3),
+          color: Colors.grey.withOpacity(0.5),
           borderRadius: BorderRadius.all(Radius.circular(20)),
         ),
         child: TextFormField(
@@ -146,7 +146,7 @@ class _SignUpPageState extends State<SignUpPage> {
       child: Container(
 
         decoration: BoxDecoration(
-          color: Colors.grey.withOpacity(0.3),
+          color: Colors.grey.withOpacity(0.5),
           borderRadius: BorderRadius.all(Radius.circular(20)),
         ),
         child: TextFormField(
