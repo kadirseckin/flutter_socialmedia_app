@@ -2,7 +2,8 @@
 Social media application built using Flutter and Firebase.Cloud firestore was used for database operations.
 
 ## Application gifs
-<img src="assets/gifs/app.gif" width="250"> <img src="assets/gifs/app2.gif" width="250"> 
+<img src="assets/gifs/app.gif" width="250"> 
+<img src="assets/gifs/app2.gif" width="250"> 
 <img src="assets/gifs/comment.gif" width="250"> <img src="assets/gifs/main_page.gif" width="200">
 
 ## Application screenshoots
