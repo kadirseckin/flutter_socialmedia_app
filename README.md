@@ -6,7 +6,7 @@ Social media application built using Flutter and Firebase.Cloud firestore was us
 
 <img src="assets/gifs/comment.gif" width="270">  <img src="assets/gifs/app2.gif" width="270"> 
 
-## Application screenshoots
+## Application screenshots
 <img src="assets/images/sign_in_page.jpg" width="250">  <img src="assets/images/sign_up_page.jpg" width="250">
 <img src="assets/images/profile_page1.jpg" width="250">  <img src="assets/images/profile_page2.jpg" width="250">
 <img src="assets/images/main_page2.jpg" width="250">  <img src="assets/images/add_image_page.jpg" width="250">
